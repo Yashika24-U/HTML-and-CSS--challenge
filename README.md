@@ -1,1 +1,1 @@
-# HTML-and-CSS--challenge
+#STATIC WEBPAGE
